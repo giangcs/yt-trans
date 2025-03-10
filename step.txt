@@ -1,0 +1,1 @@
+docker run -it -v C:\Users\63200557\Documents\PRJ\yt-trans:/app yt-trans
